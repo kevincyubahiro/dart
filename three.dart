@@ -14,6 +14,6 @@ void main() {
   // Calculate the sum
   double sum = num1 + num2 + num3;
 
-  
+  // Display the result
   print('The sum of $num1, $num2, and $num3 is $sum');
 }
