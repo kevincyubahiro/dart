@@ -11,7 +11,7 @@ void main() {
   print('Enter the third number:');
   double num3 = double.parse(stdin.readLineSync()!);
 
-  
+  // Calculate the sum
   double sum = num1 + num2 + num3;
 
   
