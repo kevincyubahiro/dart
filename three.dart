@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  
+  // Prompt user for input
   print('Enter the first number:');
   double num1 = double.parse(stdin.readLineSync()!);
 
